@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2d342e;
+    margin: 40px;
+    color: #2d342e;
+}
+
+h1 {
+    text-align: center;
+    color: #b6cebf;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px auto;
+    width: 300px;
+    background-color: #b6cebf;
+    border: 5px solid #617566;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    font-size: 15px;
+}
